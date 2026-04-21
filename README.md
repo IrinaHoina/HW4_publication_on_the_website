@@ -21,4 +21,4 @@
 На скриншоте ниже — открытая информационная база «УправлениеИТФирмой» в браузере с окном «О программе».
 
 <img width="300" height="300" alt="Screenshot_17" src="https://github.com/user-attachments/assets/d61fb27a-36e0-4ec5-b4f7-b47b7c8ac3b2" />
-<img width="1200" height="535" alt="Screenshot_18" src="https://github.com/user-attachments/assets/f2c8c10f-a80a-40b1-9639-42ab6f8e3ed1" />
+<img width="1000" height="300" alt="Screenshot_18" src="https://github.com/user-attachments/assets/f2c8c10f-a80a-40b1-9639-42ab6f8e3ed1" />
